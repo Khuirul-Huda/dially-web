@@ -4,12 +4,8 @@
     <h1>Dially Notes</h1>
     <h4>Diary untuk tugasmu</h4>
     <a
-      href="https://play.google.com/store/apps/details?id=id.my.khuirulhuda.dially&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"
-      ><img
-        alt="Temukan di Google Play"
-        src="https://play.google.com/intl/en_us/badges/static/images/badges/id_badge_web_generic.png"
-        style="width: 35%"
-    /></a>
+      href="https://www.mediafire.com/file/f5kmax4nehlo4al/Dially.apk/file" target="_blank" class="btndw"
+      >DOWNLOAD</a>
     <p>
       Sebuah aplikasi yang akan membuat kemudahan di hari-harimu yang cerah.
       Aplikasi ini didesain untuk digunakan oleh siapapun khususnya para
@@ -61,6 +57,15 @@
 .item {
   flex: 1 0 auto;
   margin: 6px;
+}
+.btndw {
+  background-color: rgb(252, 105, 130);
+  /*text-decoration-color: white;*/
+  color: white;
+  border-radius: 50px;
+  padding: 0.8%;
+  font-size: 80%
+  
 }
 </style>
 
