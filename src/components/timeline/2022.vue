@@ -2,7 +2,7 @@
   <div class="timeline-box">
     <p>
       *2022 <br />
-      Aplikasi ini udah fixed dan siap diupload ke 'toko aplikasi'
+      Aplikasi ini sudah selesai kawand. Jangan dibuli yeee... jgn lupa supportnya .. hahaha
     </p>
   </div>
 </template>
