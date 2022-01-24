@@ -24,7 +24,7 @@
     </div>
     <h3 class="title">Siapa Saja Yang Sudah Memakai Dially?</h3>
     <div>
-      Sejak dirilis di awal tahun 2022, aplikasi Dially Notes sudah didownload
+      Sejak dirilis (sebenernya belum hehe)di awal tahun 2022, aplikasi Dially Notes sudah didownload
       sebanyak 0 kali. Namun sebelum dirilis di toko aplikasi, aplikasi Dially
       sudah didownload lebih dari 100 kali dalam versi alpha, dan 50 kali dalam
       versi beta.
@@ -62,8 +62,8 @@
   background-color: rgb(252, 105, 130);
   /*text-decoration-color: white;*/
   color: white;
-  border-radius: 50px;
-  padding: 0.8%;
+  border-radius: 40px;
+  padding: 1%;
   font-size: 80%
   
 }
